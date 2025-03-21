@@ -17,6 +17,6 @@ ARCH=noarch
 DIFF_EXCLUDES="MYMETA.*"
 
 export PERL_NO_VENDOR_DEPS=1
-export PERL_MB_OPT="--install_base /usr"
+export PERL_MB_OPT="--install_base /home/Administrator/perl5/perlbrew"
 
 inherit perl
