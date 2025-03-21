@@ -1,0 +1,76 @@
+name: CI
+
+on: pull_request
+
+jobs:
+  mbtiny-dist:
+    runs-on: ubuntu-latest
+    container:
+      image: perl:5.38
+    steps:
+      - uses: actions/checkout@v4
+      - run: cpanm --quiet --notest App::ModuleBuildTiny
+      - run: mbtiny distdir
+      - run: echo ./App-perlbrew-*
+      - uses: actions/upload-artifact@v4
+        with:
+          name: App-perlbrew-distdir
+          path: ./App-perlbrew-*
+          retention-days: 5
+
+  cpanm-dist:
+    needs: mbtiny-dist
+    strategy:
+      matrix:
+        os: ["ubuntu-latest", "macos-latest", "macos-13"]
+        version: ["5.40","5.38", "5.18"]
+    name: cpanm-dist-perl-${{ matrix.version }}-${{ matrix.os }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: shogo82148/actions-setup-perl@v1.31.3
+        with:
+          perl-version: ${{ matrix.version }}
+      - uses: actions/download-artifact@v4
+        with:
+          name: App-perlbrew-distdir
+      - run: echo ./App-perlbrew-*
+      - run: cpanm --verbose ./App-perlbrew-*
+
+  cpanm-dist-in-container:
+    needs: mbtiny-dist
+    strategy:
+      matrix:
+        version: ["5.41"]
+    name: cpanm-dist-perl-${{ matrix.version }}
+    runs-on: ubuntu-latest
+    container:
+      image: perl:${{ matrix.version }}
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: App-perlbrew-distdir
+      - run: echo ./App-perlbrew-*
+      - run: cpanm --verbose ./App-perlbrew-*
+
+  cpanm-dist-cygwin:
+    needs: mbtiny-dist
+    name: cpanm-dist-cygwin
+    runs-on: windows-latest
+    steps:
+      - uses: cygwin/cygwin-install-action@master
+        with:
+          packages: bash curl make perl gcc-g++ libcrypt-devel perl-Module-Build perl-Module-Pluggable
+          add-to-path: true
+      - run: |
+          curl https://cpanmin.us/ -o ./cpanm
+          chmod +x cpanm
+      - uses: actions/download-artifact@v4
+        with:
+          name: App-perlbrew-distdir
+      - name: Install App-perlbrew with cpanm
+        run: |
+          cd "$GITHUB_WORKSPACE"
+          ls -l
+          perl -V
+          perl cpanm --verbose $(pwd)/App-perlbrew-*
+        shell: C:\cygwin\bin\bash.exe --login -o igncr -eo pipefail '{0}'

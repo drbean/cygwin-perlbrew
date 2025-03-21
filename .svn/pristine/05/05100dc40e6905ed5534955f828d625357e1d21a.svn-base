@@ -1,0 +1,23 @@
+# This file was automatically generated at 2025-03-17 22:42:23 JST.
+#
+# If you edit it, your edits will be discarded next time the file is
+# generated.
+#
+# See https://sourceware.org/cygwin-apps/setup.ini.html for a description
+# of the format.
+release: cygwin
+arch: x86_64
+setup-timestamp: 1742218943
+
+@ perl-App-perlbrew
+sdesc: "Perl distribution App-perlbrew"
+ldesc: "Perl distribution App-perlbrew, providing Perl app:
+perlbrew.
+
+Manage perl installations in your $HOME"
+category: Perl
+version: 1.01-1
+install: noarch/release/perl-App-perlbrew/perl-App-perlbrew-1.01-1.tar.xz 58844 52dfd669901bdd8b0c63f37932554f5389d6b7a86c63c24edea2a57db7bbe887d4ae422dc9355fe84237264c19bfee7ca17f9a865e51a737b3738ed620954093
+source: noarch/release/perl-App-perlbrew/perl-App-perlbrew-1.01-1-src.tar.xz 91008 4c101bdfd4a8e4c0f45f50910ce2bda22f5ecf91f35b3e3792b6af351e9d611508bdd960aba714ee9187d1c466528f973e065f24bcda5f6f2afb88f54627a087
+depends2: perl, perl_base
+build-depends: cygport, libcrypt-devel

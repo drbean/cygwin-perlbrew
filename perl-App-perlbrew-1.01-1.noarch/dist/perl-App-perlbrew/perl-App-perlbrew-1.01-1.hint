@@ -1,0 +1,8 @@
+category: Perl
+requires: perl perl_base
+sdesc: "Perl distribution App-perlbrew"
+ldesc: "Perl distribution App-perlbrew, providing Perl app:
+perlbrew.
+
+Manage perl installations in your $HOME"
+

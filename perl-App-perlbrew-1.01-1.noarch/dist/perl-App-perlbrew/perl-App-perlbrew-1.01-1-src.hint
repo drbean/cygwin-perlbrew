@@ -1,0 +1,11 @@
+category: Perl
+build-depends: cygport libcrypt-devel
+sdesc: "Perl distribution App-perlbrew"
+ldesc: "Perl distribution App-perlbrew, providing Perl app:
+perlbrew.
+
+Manage perl installations in your $HOME"
+skip:
+
+homepage: https://metacpan.org/pod/App::perlbrew-1.01
+license: The MIT (X11) License

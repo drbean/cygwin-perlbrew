@@ -1,0 +1,22 @@
+# B
+# -*- mode: sh; sh-shell: bash -*-
+BUILD_REQUIRES+=" libcrypt-devel" # perl.h
+NAME="perl-App-perlbrew"
+VERSION="1.01"
+RELEASE="1"
+DESTDIR="${HOME}/perl5/perlbrew"
+CPAN_AUTHOR="GUGOD"
+HOMEPAGE="https://metacpan.org/pod/App::perlbrew-1.01"
+LICENSE="The MIT (X11) License"
+DESCRIPTION="Perl distribution App-perlbrew, providing Perl app:
+perlbrew.
+
+Manage perl installations in your \$HOME"
+
+ARCH=noarch
+DIFF_EXCLUDES="MYMETA.*"
+
+export PERL_NO_VENDOR_DEPS=1
+export PERL_MB_OPT="--install_base /usr"
+
+inherit perl

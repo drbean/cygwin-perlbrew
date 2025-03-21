@@ -1,0 +1,4 @@
+export PERLBREW_SYSTEM_PERL=/usr/bin/perl
+export PERLBREW_ROOT=/home/drbean/perl5
+curl -L https://install.perlbrew.pl | bash
+chown -R drbean:197121 /home/drbean/perl5

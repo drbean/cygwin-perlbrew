@@ -1,0 +1,1607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://perlbrew.pl/</id>
+  <title>perlbrew</title>
+  <link rel="alternate" href="https://perlbrew.pl" type="text/html"/>
+  <entry>
+    <id>https://perlbrew.pl/Release-Notes.html?7f4576c1874571a2593db7230ededa33334b61f5</id>
+    <link rel="alternate" href="https://perlbrew.pl/Release-Notes.html" type="text/html"/>
+    <title>Release Notes</title>
+    <published>2024-11-27T20:24:06+09:00</published>
+    <author>
+      <name>gugod</name>
+    </author>
+    <content type="xhtml" xml:base="https://perlbrew.pl">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul>
+          <li><a href="Release-1.01.html">Release 1.01</a>
+</li>
+          <li><a href="Release-1.00.html">Release 1.00</a>
+</li>
+          <li><a href="Release-0.99.html">Release 0.99</a>
+</li>
+          <li><a href="Release-0.98.html">Release 0.98</a>
+</li>
+          <li><a href="Release-0.97.html">Release 0.97</a>
+</li>
+          <li><a href="Release-0.96.html">Release 0.96</a>
+</li>
+          <li><a href="Release-0.95.html">Release 0.95</a>
+</li>
+          <li><a href="Release-0.94.html">Release 0.94</a>
+</li>
+          <li><a href="Release-0.93.html">Release 0.93</a>
+</li>
+          <li><a href="Release-0.92.html">Release 0.92</a>
+</li>
+          <li><a href="Release-0.91.html">Release 0.91</a>
+</li>
+          <li><a href="Release-0.90.html">Release 0.90</a>
+</li>
+          <li><a href="Release-0.89.html">Release 0.89</a>
+</li>
+          <li><a href="Release-0.88.html">Release 0.88</a>
+</li>
+          <li><a href="Release-0.87.html">Release 0.87</a>
+</li>
+          <li><a href="Release-0.86.html">Release 0.86</a>
+</li>
+          <li><a href="Release-0.85.html">Release 0.85</a>
+</li>
+          <li><a href="Release-0.84.html">Release 0.84</a>
+</li>
+          <li><a href="Release-0.83.html">Release 0.83</a>
+</li>
+          <li><a href="Release-0.82.html">Release 0.82</a>
+</li>
+          <li><a href="Release-0.81.html">Release 0.81</a>
+</li>
+          <li><a href="Release-0.79.html">Release 0.79</a>
+</li>
+          <li><a href="Release-0.78.html">Release 0.78</a>
+</li>
+          <li><a href="Release-0.77.html">Release 0.77</a>
+</li>
+          <li><a href="Release-0.76.html">Release 0.76</a>
+</li>
+          <li><a href="Release-0.75.html">Release 0.75</a>
+</li>
+          <li><a href="Release-0.74.html">Release 0.74</a>
+</li>
+          <li><a href="Release-0.73.html">Release 0.73</a>
+</li>
+          <li><a href="Release-0.72.html">Release 0.72</a>
+</li>
+          <li><a href="Release-0.71.html">Release 0.71</a>
+</li>
+          <li><a href="Release-0.70.html">Release 0.70</a>
+</li>
+          <li><a href="Release-0.69.html">Release 0.69</a>
+</li>
+          <li><a href="Release-0.68.html">Release 0.68</a>
+</li>
+          <li><a href="Release-0.67.html">Release 0.67</a>
+</li>
+          <li><a href="Release-0.66.html">Release 0.66</a>
+</li>
+          <li><a href="Release-0.65.html">Release 0.65</a>
+</li>
+          <li><a href="Release-0.64.html">Release 0.64</a>
+</li>
+          <li><a href="Release-0.63.html">Release 0.63</a>
+</li>
+          <li><a href="Release-0.62.html">Release 0.62</a>
+</li>
+          <li><a href="Release-0.61.html">Release 0.61</a>
+</li>
+          <li><a href="Release-0.59.html">Release 0.59</a>
+</li>
+          <li><a href="Release-0.58.html">Release 0.58</a>
+</li>
+          <li><a href="Release-0.57.html">Release 0.57</a>
+</li>
+          <li><a href="Release-0.56.html">Release 0.56</a>
+</li>
+          <li><a href="Release-0.55.html">Release 0.55</a>
+</li>
+          <li><a href="Release-0.54.html">Release 0.54</a>
+</li>
+          <li><a href="Release-0.53.html">Release 0.53</a>
+</li>
+          <li><a href="Release-0.52.html">Release 0.52</a>
+</li>
+          <li><a href="Release-0.51.html">Release 0.51</a>
+</li>
+          <li><a href="Release-0.50.html">Release 0.50</a>
+</li>
+          <li><a href="Release-0.49.html">Release 0.49</a>
+</li>
+          <li><a href="Release-0.48.html">Release 0.48</a>
+</li>
+          <li><a href="Release-0.47.html">Release 0.47</a>
+</li>
+          <li><a href="Release-0.46.html">Release 0.46</a>
+</li>
+          <li><a href="Release-0.45.html">Release 0.45</a>
+</li>
+          <li><a href="Release-0.44.html">Release 0.44</a>
+</li>
+          <li><a href="Release-0.43.html">Release 0.43</a>
+</li>
+          <li><a href="Release-0.42.html">Release 0.42</a>
+</li>
+          <li><a href="Release-0.41.html">Release 0.41</a>
+</li>
+          <li><a href="Release-0.40.html">Release 0.40</a>
+</li>
+          <li><a href="Release-0.39.html">Release 0.39</a>
+</li>
+          <li><a href="Release-0.38.html">Release 0.38</a>
+</li>
+          <li><a href="Release-0.37.html">Release 0.37</a>
+</li>
+          <li><a href="Release-0.36.html">Release 0.36</a>
+</li>
+          <li><a href="Release-0.35.html">Release 0.35</a>
+</li>
+          <li><a href="Release-0.34.html">Release 0.34</a>
+</li>
+          <li><a href="Release-0.33.html">Release 0.33</a>
+</li>
+          <li><a href="Release-0.32.html">Release 0.32</a>
+</li>
+          <li><a href="Release-0.31.html">Release 0.31</a>
+</li>
+          <li><a href="Release-0.30.html">Release 0.30</a>
+</li>
+          <li><a href="Release-0.29.html">Release 0.29</a>
+</li>
+          <li><a href="Release-0.28.html">Release 0.28</a>
+</li>
+          <li><a href="Release-0.27.html">Release 0.27</a>
+</li>
+          <li><a href="Release-0.26.html">Release 0.26</a>
+</li>
+          <li><a href="Release-0.25.html">Release 0.25</a>
+</li>
+          <li><a href="Release-0.24.html">Release 0.24</a>
+</li>
+          <li><a href="Release-0.23.html">Release 0.23</a>
+</li>
+          <li><a href="Release-0.22.html">Release 0.22</a>
+</li>
+          <li><a href="Release-0.21.html">Release 0.21</a>
+</li>
+          <li><a href="Release-0.20.html">Release 0.20</a>
+</li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>https://perlbrew.pl/Release-1.00.html?ab179fff4919c55b0c3b28aa95b25dd3c8c0fdbe</id>
+    <link rel="alternate" href="https://perlbrew.pl/Release-1.00.html" type="text/html"/>
+    <title>Perlbrew Release 1.00</title>
+    <published>2024-11-27T20:03:00+09:00</published>
+    <author>
+      <name>gugod</name>
+    </author>
+    <content type="xhtml" xml:base="https://perlbrew.pl">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>perlbrew 1.00 was released at 2024-10-04T10:48:40+0900 with these  changes:
+</p>
+        <ul>
+          <li>Experimental: <code>perlbrew install</code> now accept names like skaji-relocatable-perl-$version.
+</li>
+        </ul>
+        <p>See also: <a href="Perlbrew-1.00.html">Perlbrew 1.00</a>
+</p>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>https://perlbrew.pl/Release-1.01.html?acd4a2d86b45cfe1b6e12c0fb9bf83a5bab80e1f</id>
+    <link rel="alternate" href="https://perlbrew.pl/Release-1.01.html" type="text/html"/>
+    <title>Perlbrew Release 1.01</title>
+    <published>2024-11-18T20:51:26+09:00</published>
+    <author>
+      <name>gugod</name>
+    </author>
+    <content type="xhtml" xml:base="https://perlbrew.pl">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>perlbrew 1.01 was released at 2024-11-18T20:46:04+0900 with these  changes:
+</p>
+        <ul>
+          <li>fix: <code>perlbrew install skaji-relocatable-perl-$version</code> on macOS.
+</li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>https://perlbrew.pl/perlbrew-install-skaji-relocatable-perl.html?7e38a446cd8488f357a708d5912e4f18138487cf</id>
+    <link rel="alternate" href="https://perlbrew.pl/perlbrew-install-skaji-relocatable-perl.html" type="text/html"/>
+    <title>Perlbrew install skaji-relocatable-perl</title>
+    <published>2024-10-04T11:49:28+09:00</published>
+    <author>
+      <name>gugod</name>
+    </author>
+    <content type="xhtml" xml:base="https://perlbrew.pl">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p><a href="https://github.com/skaji/relocatable-perl/">skaji/relocatable-perl</a> is a binary release of perl, provided by <a href="https://metacpan.org/author/SKAJI">Shoichi Kaji</a>, or SKAJI on CPAN, the author of <a href="https://metacpan.org/dist/App-cpm">cpm</a>.
+</p>
+        <p>Since <a href="Perlbrew-1.00.html">Perlbrew 1.00</a>, we could conveniently install skaji-relocatable-perl by doing:
+</p>
+        <pre>
+          <code>perlbrew install skaji-relocatable-perl-5.40.0.0</code>
+        </pre>
+        <p>When the prefix "skaji-relocatable-perl-" is detected, the installation process would be routed to download the binary build for current OS and arch, instead of building from source code.
+</p>
+        <p>Notice that it has a longer version number that p5p perl, because some minor changes it sometimes required for rebuilding the binaries.
+</p>
+        <p>The list of exact version numbers can be found on this page:
+</p>
+        <p>L<a href="https://github.com/skaji/relocatable-perl/releases">https://github.com/skaji/relocatable-perl/releases</a>
+</p>
+        <p>Usually a ".0" suffix would suffice, sometimes there is a ".1" or even ".2" release, but not very often.
+</p>
+        <p>The skaji-relocatable-perl releases are build entirely on GitHub infra. It's built with the <code>userelocatableinc</code> option enabled by default, hence the name.
+</p>
+        <p>For perlbrew to install any binary releases, the <code>userelocatableinc</code> must be enabled, to basicaly support installation in your <code>$HOME</code> folder -- a folder name that is unique to for each user and cannot be known in advance.
+</p>
+        <p><a href="https://github.com/skaji/relocatable-perl/">skaji/relocatable-perl</a> seems to be a very good fit. With <a href="Perlbrew-1.00.html">Perlbrew 1.00</a> we make it possible to install this particular binary release. It is marked as experimental in the release note, with the intention that we may just be collecting problems for this particular change. But that's totally cool too. Problem-solving, that's what we do.
+</p>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>https://perlbrew.pl/Perlbrew-1.00.html?f2c076df16dd7bc63638e54e98cce89702caa287</id>
+    <link rel="alternate" href="https://perlbrew.pl/Perlbrew-1.00.html" type="text/html"/>
+    <title>Perlbrew 1.00</title>
+    <published>2024-10-04T11:12:40+09:00</published>
+    <author>
+      <name>gugod</name>
+    </author>
+    <content type="xhtml" xml:base="https://perlbrew.pl">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>perlbrew 1.00 was released on 2024/10/4, a day when I (<a href="https://gugod.org">@gugod</a>) was
+in a personal trip to the city of Hakodate, right before the awesome
+conference of <a href="https://yapcjapan.org/2024hakodate/">YAPC::Hakodate, 2024</a>, in which I gave a short
+presentation titled "perlbrew 3000!" -- it's a brief history of
+perlbrew, when we look back from year 3000.
+</p>
+        <p>While I'm generally just inchworming my way forward on various hobby
+projects, it is also sometimes needed to temporarily become a
+futurist, leaping forward in time in great steps, then look
+backward. It's indeed easier that way, as <a href="https://www.youtube.com/watch?v=lXLBTBBil2U">Jensen Huang has described
+how himself not envisioning the future</a>,
+since, well, it's all in the history book now.
+</p>
+        <p>Very often, the version number 1.0 means something special, but to put
+in to the history of perlbrew, it is merely a version that comes after
+0.99, and the 91st relesae since version 0.10 -- the very the
+beginning of perlbrew. Thanks to the internet and the participant of
+OSDC.tw -- we could still look backward in time, and found <a href="https://www.youtube.com/watch?v=KTQp5_iS6Zg">the very
+first public announcement of perlbrew 0.10 on youtube.</a>.
+</p>
+        <p>With or without any specialtiy in the social status of version
+numbers, whole-number versions does sits in the position of being
+milestones, and generally means something major, with enough maturity,
+or something that might be breaking with past versions. That would be
+enough reasons for me to aggregate my thoughts together and making up
+a much longer release notes for perlbrew 1.00.
+</p>
+        <p>Oh yes, it's <code>1.00</code>, not <code>1.0</code>. Not just because two 0s are better
+one, but because conventionally I've been using 2 digits in the 2nd
+part of version numbers, and I intend to keep it as a convention of
+the perlbrew project. So the next major milestone would be <code>2.00</code>, but
+not <code>2.0</code>.
+</p>
+        <p>Someone might argue about why having such subtle differences since,
+<code>1.00</code> vs <code>1.0</code>, they don't meaning different things: it's the same
+point in the multi-dimensional plane of version numbers and they are
+both parsed as the same version object by most of
+version-number-parsing libraries (I hope.)
+</p>
+        <p>Suffice to say, that it's the job the author, to give arbitrary
+meanings to the version numbers of their software, and if you ask me,
+I'd say it's non-sense to use even numbers to mean stability and odd
+numbers to meaning instability. Prime numbers should be used to mean
+something stable, since they are not breakable. I may eventually
+engage with that rule.
+</p>
+        <p>Anyhow, perlbrew 1.00 is out and we are now on the path to perlbrew
+3000. I wholeheartly thank to the 148 contributors who've spent their
+valuable time and provides commits for the perlbrew project.
+</p>
+        <p>To get to perlbrew 3000, I extrapolate that, we will probably require
+about 1000 more contributors. Developers, you know what to do.
+</p>
+        <p>But for now, happy perlbrew-ing. 🍺
+</p>
+        <p>Written before YAPC::Hakodate.
+2024/10/4, <a href="https://gugod.org">@gugod</a>.
+</p>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>https://perlbrew.pl/Install-a-sitecustomize.pl-file-with-perlbrew.html?cf34bcbc9553fb22f7cec71da6b5a4c59fdeea63</id>
+    <link rel="alternate" href="https://perlbrew.pl/Install-a-sitecustomize.pl-file-with-perlbrew.html" type="text/html"/>
+    <title>Install a sitecustomize.pl file with perlbrew</title>
+    <published>2024-09-07T16:39:19+09:00</published>
+    <author>
+      <name>gugod</name>
+    </author>
+    <content type="xhtml" xml:base="https://perlbrew.pl">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>by <a href="https://github.com/xdg">@xdg</a>
+</p>
+        <p>When perl is compiled with <code>-Dusesitecustomize</code> it will look for a file in the <code>$Config{sitelib}</code> directory called <code>sitecustomize.pl</code> and execute it extremely early in the life of the interpreter.  (See <a href="http://perldoc.perl.org/perlrun.html">perldoc perlrun</a> and the <code>-f</code> switch for an explanation.)
+</p>
+        <p>Perlbrew 0.37 adds the <code>--sitecustomize</code> installation option to specify a Perl file to be installed as <code>sitecustomize.pl</code>. (Perlbrew will also set <code>-Dusesitecustomize</code> automatically.)
+</p>
+        <pre>
+          <code>$ perlbrew install perl-5.14.2 --sitecustomize /path/to/customize.pl
+</code>
+        </pre>
+        <p>This is extremely useful for doing dynamic manipulation of the environment or perl globals.  In particular, it can be used to modify @INC in a more customized way than can be achieved with <code>PERL5LIB</code>.
+</p>
+        <p>Consider this usage example: A user wants to be able to install a command line perl application like App::Ack and have it be available regardless of which perl is active with Perlbrew.  Further, the user would like to keep its dependencies isolated so that the Perlbrew-installed perl stays 'pure'.
+</p>
+        <p>A good way to install an isolated application is to use <code>local::lib</code> with Perlbrew:
+</p>
+        <pre>
+          <code>$ perlbrew lib create ack
+$ perlbrew use perl-5.14.2@ack
+$ cpanm App::Ack
+</code>
+        </pre>
+        <p>This installs the 'ack' program to the <code>bin</code> directory of the configured local library directory.  If the user switches to another Perl or another local library directory, <code>ack</code> won't be available.  The user can't run <code>ack</code> directly out of the local library <code>bin</code> directory because <code>PERL5LIB</code> won't be set correctly to find its dependencies.
+</p>
+        <p>There are many ways to solve this problem.  One approach is to use a <code>sitecustomize.pl</code> file.  The following <code>sitecustomize.pl</code> file checks to see if the executing script appears to be installed in a
+local library that follows the <code>INSTALL_BASE</code> convention.  If so, it <strong>automatically</strong> adds the proper library path to <code>@INC</code>:
+</p>
+        <pre>
+          <code>use strict;
+use Config;
+use Cwd ();
+my %seen;
+my @bindirs =
+  grep { defined &amp;&amp; !$seen{$_}++ } 
+  map { $Config{"install". $_} }
+  map { ("${_}bin", "${_}script") } "", "site", "vendor";
+
+my $script = Cwd::realpath($0);
+
+if ( ! grep { /\Q$script\E/ } @bindirs ) {
+  my @path = split "/", $script;
+  if ( @path &gt; 2 ) { # at least /bin/foo
+    pop @path; # get rid of script filename
+    my $installbase = join("/", @path[0 .. $#path-1], 'lib', 'perl5');
+    if ( $path[-1] eq 'bin' &amp;&amp; -d $installbase ) {
+      require lib;
+      lib-&gt;import($installbase);
+    }
+  }
+}
+</code>
+        </pre>
+        <p>That lets the user switch Perlbrew perls but still run the original <code>ack</code> program via an alias.
+</p>
+        <pre>
+          <code>$ alias ack=`which ack`
+$ perlbrew use perl-5.10.2
+$ ack PATTERN
+</code>
+        </pre>
+        <p>The <code>ack</code> that is run via the alias has a shebang line (<code>#!...</code>) that invoke the original perl, which will run <code>sitecustomize.pl</code>, which will fix up <code>@INC</code> and then <code>ack</code> will run successfully, finding its dependencies in <code>@INC</code>.
+</p>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>https://perlbrew.pl/Release-0.99.html?fcfbfb5be9967252d97458d6ab7acbc961f61b54</id>
+    <link rel="alternate" href="https://perlbrew.pl/Release-0.99.html" type="text/html"/>
+    <title>Perlbrew Release 0.99</title>
+    <published>2024-09-07T16:39:19+09:00</published>
+    <author>
+      <name>gugod</name>
+    </author>
+    <content type="xhtml" xml:base="https://perlbrew.pl">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>perlbrew 0.99 was released at 2024-09-07T16:30:28+0900 with these  changes:
+</p>
+        <ul>
+          <li>Thanks to our contributors: Graham Knop, Joelle Maslak, Luke Closs, jonasbn
+</li>
+          <li>bashrc executes properly in bash shells with +h option set
+</li>
+          <li>Allow specification of non-standard Perl location
+</li>
+          <li>make-pp now requires the input to be specified with <code>-i</code> or <code>--input</code>.
+</li>
+          <li>Tests are ported to Test2. Big thanks to Luke Closs.
+</li>
+          <li>Command make-pp now expects the input to be the path of an existing executable perl program, and would not be searching through $PATH.
+</li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>https://perlbrew.pl/CommandAlias.html?06a42c0e760f8eb11cb1435df96185ef715239d1</id>
+    <link rel="alternate" href="https://perlbrew.pl/CommandAlias.html" type="text/html"/>
+    <title>CommandAlias</title>
+    <published>2023-08-11T23:38:35+09:00</published>
+    <author>
+      <name>gugod</name>
+    </author>
+    <content type="xhtml" xml:base="https://perlbrew.pl">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <h2>Description
+</h2>
+        <p>Since 0.21, the <code>current</code> symlink is ditched in favor of bash-based multi-user support. However, the change discourage non-interactive uses of perlbrew because people will have to put the versioned path in shebang, which makes it troublesome when it is time to switch to different perl for those program.
+</p>
+        <p>An 'alias' command is introduced to generalize the need. <code>current</code> symlink is no longer a special one, but just a name specified by users.
+</p>
+        <h2>Usage
+</h2>
+        <pre>
+          <code>perlbrew alias [-f] &lt;action&gt; &lt;name&gt; [&lt;alias&gt;]
+</code>
+        </pre>
+        <p>Action is one of: create, delete, rename
+</p>
+        <p><code>-f</code> flag is used to forcibly perform the action.
+</p>
+        <p><code>&lt;name&gt;</code> should be one of the installation names, <code>&lt;alias&gt;</code> is the given alternative name.
+</p>
+        <h2>Synopsis
+</h2>
+        <p>    # essentially ln -s perl-5.14.0 current.
+    #     should fail if 'perl-5.14.0' does not exist.
+    #     should fail if 'current' already exists.
+    perlbrew alias create perl-5.14.0 current
+</p>
+        <pre>
+          <code># delete the alias
+perlbrew alias delete current
+
+# renaming
+#     should fail if `current` does not exist.
+#     should fail if `main` already exists.
+perlbrew alias rename current main
+
+# -f for force override
+#    should still fail if the alias refers to a non-alias installation.
+#    should still fail if the name does not exists (`perl-5.14.0` and `current` in the following cases)
+perlbrew alias -f create perl-5.14.0 current
+perlbrew alias -f rename current main
+</code>
+        </pre>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>https://perlbrew.pl/CommandCPAN.html?04ec6aa8866c18a3c5291901818573b449416c89</id>
+    <link rel="alternate" href="https://perlbrew.pl/CommandCPAN.html" type="text/html"/>
+    <title>CommandCPAN</title>
+    <published>2023-08-11T23:38:35+09:00</published>
+    <author>
+      <name>gugod</name>
+    </author>
+    <content type="xhtml" xml:base="https://perlbrew.pl">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>(This is only a documentation draf, there are no implementation whatsoever)
+</p>
+        <h2>Description
+</h2>
+        <p>The 'perlbrew cpan' command help install cpan modules to all perl installations.
+</p>
+        <h2>Usage Example
+</h2>
+        <pre>
+          <code># Install Task::Jifty for all perls
+perlbrew cpan install Task::Jifty
+
+# Install Task::Jifty for some perls
+perlbrew 5.12,5.14 cpan install Task::Jifty
+</code>
+        </pre>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>https://perlbrew.pl/Dealing-with-shebangs.html?e8a92b77cf793dd793e83c70adde31420374e6ae</id>
+    <link rel="alternate" href="https://perlbrew.pl/Dealing-with-shebangs.html" type="text/html"/>
+    <title>Dealing with shebangs</title>
+    <published>2023-08-11T23:38:35+09:00</published>
+    <author>
+      <name>gugod</name>
+    </author>
+    <content type="xhtml" xml:base="https://perlbrew.pl">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>In the POD of perlrun, we can find two possible perl program preambles that tries to use the environment-decided perl installation, one is very cryptic: 
+</p>
+        <pre>
+          <code>#!/bin/sh
+#! −*−perl−*−
+eval 'exec perl −x −wS $0 ${1+"$@"}'
+    if 0;
+</code>
+        </pre>
+        <p>The other is extremely simple:
+</p>
+        <pre>
+          <code>#!/usr/bin/env perl
+</code>
+        </pre>
+        <p>Basically they are both telling the OS (that understands the shebang) to find the first "perl" executable in the list of $PATH, and <code>exec</code> that program by appending the current file name after the shebang. The first snippets runs <code>/bin/sh</code>, the second runs <code>/usr/bin/env</code>. Neither of them invokes "perl" directly, like this shebang you'll find in most perl programs:
+</p>
+        <pre>
+          <code>#!/usr/bin/perl
+</code>
+        </pre>
+        <p>This is because most UNIX-like systems (especially Linux) comes with perl installed at <code>/usr/bin/perl</code>. Some UNIX does not have perl by default, but can be easily installed latter on. Just that they might end up being at <code>/usr/local/bin/perl</code>. Usually perl programmers call them "system perl".
+</p>
+        <p>A developer might install their own version of perl to anywhere like <code>/opt/perl5.14.2/bin/perl</code> or <code>/opt/local/bin/perl</code> or any other fancy paths. An put the bin path to the beginning of <code>$PATH</code> environment variable so that when they run perl programs as <code>perl foo.pl</code>, it'll invoke their own version of perl, not the system perl. There is no special names for such perl installation, let's call them as "env perl" in the article.
+</p>
+        <p>perlbrew rely on this mechanism to be functional properly. Whenever you say <code>perlbrew use 5.14.2</code>, perlbrew locates the path of 5.14.2 perl binary, and modify <code>$PATH</code> to point to there. Running perl programs with env perl requires you type "perl" in the beginning of the command. Relying shebang lines in the code does not.
+</p>
+        <p>The shebang schema is like Dokodemo Door, a convention that brings huge convenience to easily specify an compiler + runner of the code. Without this design, scripting/dynamic language authors might just create their own conventions.
+</p>
+        <p>However, it also creates problems. A cross-platform perl program might not be set be executable because the shebang line is valid on the author's platform, but not on the users' environment. A perl program authored on Mac can simply put <code>#!/usr/bin/perl</code> in the first line, but once that program gets copied to FreeBSD, perl can only be found at <code>#!/usr/local/bin/perl</code>. The user intend to run the program should modify the code a little bit in order to make it a valid executable. Which really invalids the statement that "perl programs are cross-platform."
+</p>
+        <p>Well, that sounds like picking bones from a egg. Developers will eventually learn that they can either symlink perl around, or have some fancy scripts that properly modify shebang in-place. True. However when a program does not run because of a invalid shebang line, it can be really frustrated for newbies
+</p>
+        <p>Sadly, there is really no perfect cross-platform shebang that works for all UNIX-like systems.
+</p>
+        <p>However, CPAN distributions built with <code>ExtUtil::MakeMaker</code> solves this issue in a very good way. When perl programs are distributed / installed as a CPAN distribution, its shebang line are rewritten to be the same perl that used to invoke cpan client itself. Or, if you download+extract a CPAN distribution on your own and run <code>perl Makefile.PL</code> to do manual installation, it will be your env perl.
+</p>
+        <p>Since shebang is hard to be cross-platfrom, it is also not trivial to decide what to put on the perlbrew executable shebang. You'll find that it currently contains <code>#!/usr/bin/perl</code>. However, the true is, when users runs this installer:
+</p>
+        <pre>
+          <code>curl -kL http://install.perlbrew.pl | bash
+</code>
+        </pre>
+        <p>The downloaded perlbrew will be modified to use your system perl shebang. To be more specific, it is the pre-perlbrew env perl shebang. That means <code>the first perl in $PATH that is not under $PERLRREW_ROOT</code>.
+</p>
+        <p>You might remember that it used to be just <code>#!/usr/bin/env perl</code>. But that has at least 2 drawbacks:
+</p>
+        <ol>
+          <li>CentOS Linux comes without <code>/usr/bin/env</code>, but only <code>/bin/env</code> (well, the same for many other UNIXs)
+</li>
+          <li><code>perlbrew use perl-5.6.0</code> will strangle perlbrew executable itself, because perlbrew requires 5.8.8.
+</li>
+        </ol>
+        <p>Therefore, it is the best to let <code>perlbrew</code> itself fixed to use system perl shebang. You may leave your own program to use the env shebang so that it can be invoked with env perl, which is managed with perlbrew. Optionally, you might want to hard-coded a perlbrew perl shebang in your code for some use cases.
+</p>
+        <p>Shebang is cool. It even feels like a cool word to be spoken. But having to manage shebang in programs really sucks. <em>shrug</em>
+</p>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>https://perlbrew.pl/Deploying-Perl-bindings-from-tools-installed-with-Homebrew-on-OS-X.html?579036a659d3b285b7fcd0cdae147e3fc204af23</id>
+    <link rel="alternate" href="https://perlbrew.pl/Deploying-Perl-bindings-from-tools-installed-with-Homebrew-on-OS-X.html" type="text/html"/>
+    <title>Deploying Perl bindings from tools installed with Homebrew on OS X</title>
+    <published>2023-08-11T23:38:35+09:00</published>
+    <author>
+      <name>gugod</name>
+    </author>
+    <content type="xhtml" xml:base="https://perlbrew.pl">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>by  Lieven Hollevoet <a href="https://github.com/hollie">@hollie</a>
+</p>
+        <p>I have been using Perlbrew happily on OS X to install custom/recent Perl versions. Sometimes I need a more or less exotic Perl binding that I could easily install using Homebrew. Recent updates to Homebrew made that process a bit less automatic.
+</p>
+        <p>Below I describe how to install the perl-shared binding for RRDTool on a recent OS X with a recent version of Homebrew.
+</p>
+        <h2>Why is it not working automatically
+</h2>
+        <p>There are two issues with the combination of Perlbrew and Homebrew:
+ <em> Homebrew assumes you're using the system Perl and does not automatically detect your locally-installed Perl.
+ </em> Latest versions of Homebrew work in a sandbox environment. This means that the build chain has no write permissions to the folder that contains the Perlbrew site modules.
+</p>
+        <h3>Detect locally-installed Perl version
+</h3>
+        <p>This can be forced by passing to <code>brew</code> the option <code>--env=std</code>. For more information and the discussion about this please see the last posts in this <a href="https://github.com/Homebrew/legacy-homebrew/issues/12090">support ticket</a>.
+</p>
+        <h3>Work around the sandbox
+</h3>
+        <p>When you're install a packet with brew, the sandbox seems to prohibit writes to other folders than the target folder for the brew process. This means that if a packet creates a Perl module, this module cannot be written to the Perl site module folder. To work around that: 
+ <em> enable the option to not delete the build folder
+ </em> navigate to the build folder yourself and install the perl module.
+</p>
+        <h2>Practical example for RRDtool
+</h2>
+        <p><code>brew install --env=std --build-from-source --keep-tmp rrdtool</code>
+</p>
+        <p>Then navigate to the temp folder where the build results are retained. The full path is listed in the output of the previous command.
+</p>
+        <p>Go into the subfolder <code>bindings/perl-shared</code> and do <code>make install</code> there. You'll see the RRDs.pm nicely be deployed into your favorite Perl version module folder.
+</p>
+        <h2>References
+</h2>
+        <p>I've <a href="http://discourse.brew.sh/t/installing-rrdtool-perl-module-on-local-perl-no-write-permission-to-local-folder/610">discussed</a> this with a developer from Homebrew. 
+</p>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>https://perlbrew.pl/FixLion.html?1292476c099a26de58bfe85797844c3fac11776b</id>
+    <link rel="alternate" href="https://perlbrew.pl/FixLion.html" type="text/html"/>
+    <title>Fix For MacOSX Lion</title>
+    <published>2023-08-11T23:38:35+09:00</published>
+    <author>
+      <name>gugod</name>
+    </author>
+    <content type="xhtml" xml:base="https://perlbrew.pl">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>If you upgraded to Lion with Xcode 4.1, you may find youself fail to build any
+perls with perlbrew. This is because that the newly released <code>/usr/bin/nm</code> does
+not work with the perl building system. Luckly, this issues has already been
+solved in perl-blead, and <a href="http://metacpan.org/author/BINGOS">BINGOS</a> quickly made a new release of
+<a href="http://metacpan.org/release/Devel-PatchPerl">Devel::PatchPerl</a> for us.
+</p>
+        <p>To fix this isusse before the next perlbrew release, grab this <code>patchperl</code>
+standalone executable, put it in your <code>$PERLBREW_ROOT/bin</code> and <code>chmod +x</code> it:
+</p>
+        <pre>
+          <code>https://raw.github.com/gist/962406/93cd90f5e6c6a86073afb3815f0ea06c3c9e99ed/patchperl
+</code>
+        </pre>
+        <p>That's something like this:
+</p>
+        <pre>
+          <code>export PERLBREW_ROOT=${HOME}/perl5/perlbrew
+curl -k -L https://raw.github.com/gist/962406/93cd90f5e6c6a86073afb3815f0ea06c3c9e99ed/patchperl -o $PERLBREW_ROOT/bin/patchperl
+chmod +x $_
+</code>
+        </pre>
+        <p>Or if you've previously installed perlbrew by doing <code>cpan App::perlbrew</code>, simply
+upgrade your <code>Devel::PatchPerl</code> to 0.42.
+</p>
+        <p>As of the time this article is written, the latest release of perlbrew is 0.27, the next release
+of perlbrew will fix this issue.
+</p>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>https://perlbrew.pl/Home.html?0ce0d3c80b8f0a214df0df75fbc430a4ca1decf3</id>
+    <link rel="alternate" href="https://perlbrew.pl/Home.html" type="text/html"/>
+    <title>Home</title>
+    <published>2023-08-11T23:38:35+09:00</published>
+    <author>
+      <name>gugod</name>
+    </author>
+    <content type="xhtml" xml:base="https://perlbrew.pl">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>Welcome to the App-perlbrew wiki!
+</p>
+        <p>The content in the wiki will be semi-manually built as HTML and get published to <a href="https://perlbrew.pl">https://perlbrew.pl</a> . You are welcome to write up a page and ping me (@gugod) to get it published.
+</p>
+        <h2>How To Information
+</h2>
+        <ul>
+          <li><a href="perlbrew-ing-on-$OS.html">perlbrew-ing on $OS</a>
+</li>
+          <li><a href="Dealing-with-shebangs.html">Dealing with shebangs</a>
+</li>
+          <li><a href="Reinstall-All-Modules-On-New-Perl.html">Reinstall-All-Modules-On-New-Perl</a>
+</li>
+          <li><a href="Perlbrew-中文簡介.html">Perlbrew 中文簡介</a>
+</li>
+          <li><a href="Install-a-sitecustomize.pl-file-with-Perlbrew.html">Install a sitecustomize.pl file with Perlbrew</a>
+</li>
+          <li><a href="https://github.com/gugod/App-perlbrew/wiki/Deploying-Perl-bindings-from-tools-installed-with-Homebrew-on-OS-X">Making Homebrew work with Perlbrew</a>
+</li>
+          <li><a href="https://www.digitalocean.com/community/tutorials/how-to-install-perlbrew-and-manage-multiple-versions-of-perl-5-on-centos-7">How to Install Perlbrew and Manage Multiple Versions of Perl 5 on CentOS 7 | DigitalOcean</a>
+</li>
+          <li><a href="https://qiita.com/suesan/items/008da775f066a323bddb">perlbrewで構築するPerl環境</a> by <a href="https://qiita.com/suesan">@suesan</a>
+</li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>https://perlbrew.pl/Installation.html?5d2478b2a08da3116ab0ae3d4152fd730248f9d5</id>
+    <link rel="alternate" href="https://perlbrew.pl/Installation.html" type="text/html"/>
+    <title>Installation</title>
+    <published>2023-08-11T23:38:35+09:00</published>
+    <author>
+      <name>gugod</name>
+    </author>
+    <content type="xhtml" xml:base="https://perlbrew.pl">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>Copy &amp; Paste this line into your terminal:
+</p>
+        <pre>
+          <code>\curl -L https://install.perlbrew.pl | bash
+</code>
+        </pre>
+        <p>Or, if your system does not have curl but something else:
+</p>
+        <pre>
+          <code># Linux
+\wget -O - https://install.perlbrew.pl | bash
+
+# FreeBSD
+\fetch -o- https://install.perlbrew.pl | sh
+</code>
+        </pre>
+        <p>If you prefer to install with cpan, there are two steps:
+</p>
+        <pre>
+          <code>sudo cpan App::perlbrew
+perlbrew init
+</code>
+        </pre>
+        <p>If it is installed with cpan, the perlbrew executable should be installed as
+<code>/usr/bin/perlbrew</code> or <code>/usr/local/bin/perlbrew</code>. For all users who want to use
+perlbrew, a prior <code>perlbrew init</code> needs to be executed.
+</p>
+        <p>The default perlbrew root directory is <code>~/perl5/perlbrew</code>, which can be changed
+by setting <code>PERLBREW_ROOT</code> environment variable before the installation and
+initialization. For more advanced installation process, please read <a href="http://metacpan.org/module/App::perlbrew">the
+perlbrew document</a>.
+</p>
+        <h3>Install, other ways
+</h3>
+        <p>If you use <a href="https://metacpan.org/pod/Sparrow">Sparrow</a> there is sparrow plugin named <a href="https://github.com/melezhik/perlbrew">perlbrew</a> to install perlbrew. It's poorly tested but proved to be working for Ubuntu/Debian platforms.
+</p>
+        <p>If you are using Windows, please take a look at <a href="https://github.com/stevieb9/berrybrew">Berrybrew</a>
+</p>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>https://perlbrew.pl/Perlbrew-Configuration.html?9d00d7e0d5f9dc2e96f2bd046f84cc357e0ba195</id>
+    <link rel="alternate" href="https://perlbrew.pl/Perlbrew-Configuration.html" type="text/html"/>
+    <title>Perlbrew Configuration</title>
+    <published>2023-08-11T23:38:35+09:00</published>
+    <author>
+      <name>gugod</name>
+    </author>
+    <content type="xhtml" xml:base="https://perlbrew.pl">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>perlbrew usually picks some nice defaults, but you can still tweaks some knobs.
+</p>
+        <h2>Set a CPAN Mirror
+</h2>
+        <p>Set environment variable PERLBREW_CPAN_MIRROR to the mirror site url. <code><a href="http://`">http://`</a> or</code><a href="https://`">https://`</a> URLs
+are both supported, but not <code>ftp://</code> or <code>rsync://</code> URLs.
+</p>
+        <p>For example:
+</p>
+        <pre>
+          <code># bash / zsh
+export PERLBREW_CPAN_MIRROR=https://cpan.metacpan.org/
+</code>
+        </pre>
+        <p>For the list of public CPAN mirror site URLs, please see this list <a href="http://www.cpan.org/SITES.html"/>
+Again, choose a `<a href="http://`">http://`</a> URL.
+</p>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>https://perlbrew.pl/Perlbrew-In-Shell-Scripts.html?493f02c679cdd8e30d543d2fbc83a6f808e74a47</id>
+    <link rel="alternate" href="https://perlbrew.pl/Perlbrew-In-Shell-Scripts.html" type="text/html"/>
+    <title>Perlbrew In Shell Scripts</title>
+    <published>2023-08-11T23:38:35+09:00</published>
+    <author>
+      <name>gugod</name>
+    </author>
+    <content type="xhtml" xml:base="https://perlbrew.pl">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>It is generally easy to bootstrap perlbrew and use perlbrew function in shell scripts. In an interactive script, this preamble is usually what's needed:
+</p>
+        <pre>
+          <code>#!/bin/bash
+source $HOME/perl5/perlbrew/etc/bashrc
+perlbrew use perl-5.28.0
+</code>
+        </pre>
+        <p>It is just the same as what's put in bashrc and executed everytime you open a new shell.
+</p>
+        <p>However, this may not work for a cron script -- because cron scripts are executed without variables like <code>$HOME</code>. The alternative shell preamble for cron scripts is something like:
+</p>
+        <pre>
+          <code>#!/bin/bash
+export PERLBREW_ROOT=/home/gugod/perl5/perlbrew
+export PERLBREW_HOME=/home/gugod/.perlbrew
+source ${PERLBREW_ROOT}/etc/bashrc
+perlbrew use perl-5.28.0
+</code>
+        </pre>
+        <p>The <code>$PERLBREW_ROOT</code> and <code>$PERLBREW_HOME</code> are special variables recognized by perlbrew for bootstrapping purposes. They are also used for specifying alternative installation directiory and let multiple accounts on the same machine share the same perlbrew installation.
+</p>
+        <p>In an interactive shell environment, the default value of <code>$PERLBREW_HOME</code> is <code>$HOME/.perlbrew</code>. If you don't use the <code>lib</code> feature in perlbrew, you can probably also skip setting this variable.
+</p>
+        <p>If this shell script only invokes one program and do not call <code>perlbrew use</code> several times, it can be simplifed by utilizing <code>perlbrew exec</code> command to something like this:
+</p>
+        <pre>
+          <code>#!/bin/bash
+exec /home/gugod/perl5/perlbrew/bin/perlbrew exec -q --with perl-5.28.1 \
+    perl /apps/myapp/bin/myapp.pl $*
+</code>
+        </pre>
+        <p>This runs <code>perl /apps/myapp/bin/myapp.pl</code>, passing through all command-line arguments, after switching perl-5.28.1. The <code>perlbrew</code> executable itself should be located within an initialized <code>$PERLBREW_ROOT</code> directory, as that is how it figures out the installation paths of perls. This last trick does not work with perlbrew instaledd via cpan clients.
+</p>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>https://perlbrew.pl/Perlbrew-and-Friends.html?709382420bbad872a5f9ea82a252384e3390d252</id>
+    <link rel="alternate" href="https://perlbrew.pl/Perlbrew-and-Friends.html" type="text/html"/>
+    <title>Perlbrew and Friends</title>
+    <published>2023-08-11T23:38:35+09:00</published>
+    <author>
+      <name>gugod</name>
+    </author>
+    <content type="html" xml:base="https://perlbrew.pl">&lt;p&gt;If you install perlbrew with the installer as recommended, you might notice that an executable named &lt;code&gt;patchperl&lt;/code&gt; is also installed to your &lt;code&gt;~/perl5/perlbrew/bin&lt;/code&gt; directory. Also when you read the &lt;code&gt;perlbrew&lt;/code&gt; &lt;a href="http://metacpan.org/module/perlbrew"&gt;usage documentation&lt;/a&gt;, there is a command &lt;code&gt;install-cpanm&lt;/code&gt; that installs a standalone executable &lt;code&gt;cpanm&lt;/code&gt; to to the same &lt;code&gt;bin&lt;/code&gt; directory. Why is perlbrew doing this ?
+&lt;/p&gt;&lt;p&gt;The program &lt;code&gt;patchperl&lt;/code&gt; is a standalone executable of the distribution of &lt;a href="http://metacpan.org/module/Devel::PatchPerl"&gt;Devel::PatchPerl&lt;/a&gt; by &lt;a href="http://metacpan.org/author/BINGOS"&gt;BINGOS&lt;/a&gt;, which aims to solve the issues encountered when building old perls (5.6.x, 5.8.x, etc) on modern operating systems. Due to the updates in OS, gcc, or libc, those old perl distributions fail to build due to various configure or library errors. &lt;code&gt;Devel::PatchPerl&lt;/code&gt; patches the ancient perl source tree so it can be successfully built.
+&lt;/p&gt;&lt;p&gt;&lt;code&gt;perlbrew&lt;/code&gt; requires the &lt;code&gt;patchperl&lt;/code&gt; program to be there because it is the best way to make it Just Work. &lt;code&gt;cpanm&lt;/code&gt; is an awesome CPAN client that is lightweight, and fast. I use it exclusively these days.
+&lt;/p&gt;&lt;p&gt;The reason that these programs live under &lt;code&gt;~/perl5/perlbrew/bin&lt;/code&gt; is very simple: so they are always available no matter which perl you switch to.
+&lt;/p&gt;&lt;p&gt;With a proper perlbrew setup, &lt;code&gt;~/perl5/perlbrew/bin&lt;/code&gt; should be the first or second item in your &lt;code&gt;$PATH&lt;/code&gt;, since &lt;code&gt;perlbrew switch&lt;/code&gt; and &lt;code&gt;perlbrew use&lt;/code&gt; alters &lt;code&gt;$PATH&lt;/code&gt;, it is the best that mandatory programs lives somewhere that's always accessible.
+&lt;/p&gt;&lt;p&gt;If you install &lt;code&gt;cpanm&lt;/code&gt; by doing &lt;code&gt;cpan -i App::cpanminus&lt;/code&gt; within a perlbrew environment, you will run into this issue:
+&lt;/p&gt;&lt;pre&gt;&lt;code&gt;perlbrew switch perl-5.12.3
+cpan -i App::cpanminus
+cpanm Moose # works
+
+perlbrew switch perl-5.14.0
+cpanm Moose
+#=&amp;gt; cpanm is not found 
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This is because the first &lt;code&gt;cpan&lt;/code&gt; (5.12.3) installs &lt;code&gt;cpanm&lt;/code&gt; to &lt;code&gt;~/perl5/perlbrew/perls/5.12.3/bin&lt;/code&gt;, and the latter &lt;code&gt;perlbrew switch perl-5.14.0&lt;/code&gt; removes that from &lt;code&gt;$PATH&lt;/code&gt;. If you use &lt;code&gt;cpanm&lt;/code&gt; exclusively like I do, you should install it with &lt;code&gt;perlbrew install-cpanm&lt;/code&gt;.
+&lt;/p&gt;&lt;p&gt;In short, &lt;code&gt;patchperl&lt;/code&gt; and &lt;code&gt;cpanm&lt;/code&gt; are so important, it is best to make them always available.
+&lt;/p&gt;&lt;p&gt;peace out, gugod.
+&lt;/p&gt;&lt;hr&gt;&lt;p&gt;PS. You may also choose to manually install &lt;code&gt;cpanm&lt;/code&gt; to a system-wide path like &lt;code&gt;/usr/local/bin&lt;/code&gt;, that way it'll always available too. In that case you do not need to run &lt;code&gt;perlbrew install-cpanm&lt;/code&gt; command at all.
+&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://perlbrew.pl/Perlbrew-development-and-the-git-flow.html?2eba86fd4a9d3105d7f8b2c2c91682a0520e4bc8</id>
+    <link rel="alternate" href="https://perlbrew.pl/Perlbrew-development-and-the-git-flow.html" type="text/html"/>
+    <title>Perlbrew development and the git flow</title>
+    <published>2023-08-11T23:38:35+09:00</published>
+    <author>
+      <name>gugod</name>
+    </author>
+    <content type="xhtml" xml:base="https://perlbrew.pl">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>The prerlbrew source repository on github sets the default branch to "develop", while there is still a "master" branch like usual git repositories. Each serves their own purpose.
+</p>
+        <p>The "master" branch is a stable branch, and gets updated only on release. Whenever people checkout the master branch, they get the source code of the latest release of perlbrew. It also contain the stable version of <code>perlbrew</code> standalone executable, and the perlbrew installer program.
+</p>
+        <p>The "develop" branch, is where random commits go. Well not really randomly, but it is where I personally commit new features, and accepting pull requests. Anyone who wish to try the nightly version of perlbrew can download the develop perlbrew executable from <a href="https://github.com/gugod/App-perlbrew/raw/develop/perlbrew">https://github.com/gugod/App-perlbrew/raw/develop/perlbrew</a>
+</p>
+        <p>They are named so because I personally adapt the <a href="http://nvie.com/posts/a-successful-git-branching-model/">git flow</a> convention when working on perlbrew. When working on a feature that is likely taking quite some time to finish, a local feature branch is created, and not necessarily pushed to the github. This way, when there are pending pull requests, they do not have to wait too long, since they can be merged into develop branch first.
+</p>
+        <p>Pull requests always merged into the "develop" branch. If you are willing to contribute, make sure sending me pull requests against the develop branch but not the master branch. This should the default on github UI now, but it is still mentioned so everyone can know I intentionally set "develop" branch to be the default.
+</p>
+        <p>At this moment contributors all have their own fork of perlbrew repository, and I have not grant any commit bit at all. The truth is, I never need to. Github forks are naturally branches that can be easily managed with git commands, and I do not need to talk to anybody through the workflow at all. People simply work on their own fork with whatever branching model they feel like to, and I always accept new changes to my develop branch.
+</p>
+        <p>I feel like it is an ideal situation that no arguments about branching convention or naming are needed. People just commit something, and let me worry about the merge and release latter on.
+</p>
+        <p>Does it slow down the development pace due to the need of pull requests ? Well, maybe, but perlbrew is an open source project with no strict development and release cycles. When things are slowing down, it usually means that people are just busy working something else. Besides, every pul requests come with a message from the developers describing what's changed. If they simply commit changes without talking to me afterward, I then have to figure it out on my own to decide if it's good to release. Sometimes that is just tedious.
+</p>
+        <p>Anyway, there will be a <a href="http://yapcasia.org/2011/talk/65">talk about perlbrew</a> in the upcoming YAPC::Asia, I will be introducing this project again (it was presented in the last YAPC::Asia too), mostly about the updates since last year, and that are a few very important ones. If you want to make something awesome that I can talk about, make sure to send me the pull request !
+</p>
+        <p>peace out, gugod
+</p>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>https://perlbrew.pl/Perlbrew-%E4%B8%AD%E6%96%87%E7%B0%A1%E4%BB%8B.html?c05c1df6600f58a33e6a311dc21abb06e12c5487</id>
+    <link rel="alternate" href="https://perlbrew.pl/Perlbrew-%E4%B8%AD%E6%96%87%E7%B0%A1%E4%BB%8B.html" type="text/html"/>
+    <title>Perlbrew</title>
+    <published>2023-08-11T23:38:35+09:00</published>
+    <author>
+      <name>gugod</name>
+    </author>
+    <content type="xhtml" xml:base="https://perlbrew.pl">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>本篇文章同步刊載於中研院自由軟體鑄造場 <a href="http://www.openfoundry.org/tw/tech-column/8514-perlbrew-perl-installation-management-tool">http://www.openfoundry.org/tw/tech-column/8514-perlbrew-perl-installation-management-tool</a>.
+</p>
+        <ul>
+          <li>林佑安 (c9s) <a href="mailto:cornelius.howl@gmail.com">mailto:cornelius.howl@gmail.com</a>
+</li>
+        </ul>
+        <h2>緣起
+</h2>
+        <p>Perl5 的開發，以往有個習俗，也就是每一次的版本釋出，都由一位 Pumpking (patch pumpkin) 來主導，這位 Pumpking 得處理 patch，處理新功能，更新核心模組，處理 Regression, Build 以及一般的修正，處理二進位檔的相容性等等的工作。
+</p>
+        <p>也就是說，在以往，作為一位 Pumpking ，你必須是一位硬底子的 C 語言黑客，相當熱愛 Perl，且必須要有責任感，然後得同時為專案管理經理，要處理新版本釋出，得相當了解編譯器，能處理 Patch，也要能夠設計程式語言。
+</p>
+        <p>這些工作相當的難，而且也相當花時間。
+</p>
+        <p>舉例來說，Perl 5.8.8 至 Perl 5.10.0 的釋出，就花了 5 年的時間，且燒光了兩位相當厲害的黑客的氣力，其中包含 Hugo van der sanden(hvds) 以及 Rafael Garcia Suarez (rgs)，他們分別在 2004 年以及 2009 年退出了這項工作。
+</p>
+        <p>處理 perl5.10.1 釋出的 Dave Mitchell 也說 「這些事情實在<strong>相當的</strong>難」，最後 Dave Mitchell 也在 2009 年十月時退出了這份工作。
+</p>
+        <p>所以 Perl 團隊改善了版本釋出流程，將各種不同工作委派給專職的人員，讓 Pumpking 專心在版本釋出的工作上。
+</p>
+        <p>以往從 2007 年開始，Perl 5.9.0, 5.9.1, 5.9.2 一直到 5.9.5，每個版本之間的釋出都至少花了一年的時間，而流程改善之後， 5.11.0, 5.11.1, 5.11.2 一直到 5.13 ，每個版本只花了一個月的時間釋出。 一直到現在，Perl 釋出的版本已經到 5.15.3 。
+</p>
+        <p>Jesse Vincent 說，處理 5.11.0 釋出只花了他四天時間，5.11.1 只花了他兩天的時間，而現在處理每個新版的釋出，甚至不用到一天。
+</p>
+        <p>除了釋出變快了，每次釋出能夠納入的修正、新設計也變多了。
+</p>
+        <p>也因此，為了能夠使用最新的、不同版本的 Perl，新的需求產生出來了，而滿足這個需求的解決方案就是 Perlbrew。
+</p>
+        <h2>簡介
+</h2>
+        <p>2010 年二月，CPAN 模組開發者，劉康民 (gugod) 釋出了 App::perlbrew 模組，該模組是以 Ruby 的 RVM 概念出發，也就是使用者可以使用 Perlbrew 將不同版本的 Perl 安裝在 $HOME 路徑內，並且使用 Perlbrew 來切換不同版本的 Perl 使用。
+</p>
+        <p>使用 Perlbrew 有幾個優點:
+</p>
+        <ul>
+          <li>不需要使用 sudo 來安裝 CPAN 模組
+</li>
+          <li>可以使用每個月不斷釋出的新的 Perl
+</li>
+          <li>可嘗試新的程式語言功能
+</li>
+          <li>可以不再被 Vendor Perl 限制 (平台內建的 Perl)
+</li>
+          <li>可在不同版本的 Perl 下測試模組
+</li>
+          <li>可整合至 bash, zsh, csh 環境變數
+</li>
+        </ul>
+        <h2>安裝
+</h2>
+        <p>將下面這行 Shell 指令貼入您的終端機內執行:
+</p>
+        <pre>
+          <code>curl -L http://xrl.us/perlbrewinstall | bash
+</code>
+        </pre>
+        <p>或者你也可由 CPAN Shell 安裝
+</p>
+        <pre>
+          <code>sudo cpan App::perlbrew
+perlbrew init
+</code>
+        </pre>
+        <p>安裝完畢後，預設的 Perlbrew 根目錄會在 ~/perl5/perlbrew 底下。
+</p>
+        <p>並且將以下指令加入到你的 bashrc, zshrc 或是 csh 內:
+</p>
+        <p>For bash / zsh
+</p>
+        <pre>
+          <code>source ~/perl5/perlbrew/etc/bashrc
+</code>
+        </pre>
+        <p>For csh
+</p>
+        <pre>
+          <code>source ~/perl5/perlbrew/etc/cshrc
+</code>
+        </pre>
+        <h2>使用
+</h2>
+        <p>使用下列指令可以查看現有哪些版本的 Perl 可以使用
+</p>
+        <pre>
+          <code>$ perlbrew available
+
+perl-5.15.3
+perl-5.14.2
+perl-5.12.4
+perl-5.10.1
+perl-5.8.9
+perl-5.6.2
+perl5.005_04
+perl5.004_05
+perl5.003_07
+</code>
+        </pre>
+        <p>接著，選擇你想安裝的 Perl ，安裝他:
+</p>
+        <pre>
+          <code>$ perlbrew install 5.14.2
+
+Fetching perl-5.14.2 as /Users/c9s/perl5/perlbrew/dists/perl-5.12.4.tar.gz
+
+Installing /Users/c9s/perl5/perlbrew/build/perl-5.14.2 into ~/perl5/perlbrew/perls/perl-5.14.2
+
+This could take a while. You can run the following command on another shell to track the status:
+
+    tail -f ~/perl5/perlbrew/build.log
+</code>
+        </pre>
+        <p>如果你對於安裝進度好奇，可以使用上面指示的 tail 指令來查看目前安裝的狀態。
+</p>
+        <p>安裝完畢，你可以使用 list 命令來查看那些版本的 Perl 被安裝了:
+</p>
+        <pre>
+          <code>$ perlbrew list
+</code>
+        </pre>
+        <p>接著，要切換到不同版本的 Perl ，你可以使用:
+</p>
+        <pre>
+          <code>$ perlbrew switch perl-5.14.2
+</code>
+        </pre>
+        <p>接著確認一下你現在使用的 Perl:
+</p>
+        <pre>
+          <code>$ perl -v
+This is perl 5, version 14, subversion 2 (v5.14.2) built for darwin-2level
+</code>
+        </pre>
+        <p>如果你暫時不想使用 perlbrew ，可執行 <code>off</code> 命令
+</p>
+        <pre>
+          <code>$ perlbrew off
+</code>
+        </pre>
+        <p>如此就會將 perlbrew 關掉，再使用 <code>which</code> 命令查看一下目前使用的 Perl ，就會回到 Vendor 版本的 Perl 了。
+</p>
+        <pre>
+          <code>$ which perl
+/opt/local/bin/perl
+</code>
+        </pre>
+        <h3>cpanminus
+</h3>
+        <p>cpanminus 是日本的 @miyagawa (bulknews.typepad.com) 所開發的一個極小、不需設定、無相依性、快速的 CPAN 模組安裝工具。
+</p>
+        <p>如果你喜歡 cpanminus ，也可使用下列指令安裝 perlbrew 提供的 cpanm
+</p>
+        <pre>
+          <code>perlbrew install-cpanm
+</code>
+        </pre>
+        <p>該 cpanm 可安裝模組至目前使用的 Perl 版本函式庫內。
+</p>
+        <p>可以透過 which 命令來觀察一下現在所使用的 cpanm
+</p>
+        <pre>
+          <code>$ which cpanm
+/Users/c9s/perl5/perlbrew/bin/cpanm
+</code>
+        </pre>
+        <p>透過該 cpanm 安裝模組，是不需要 <code>sudo</code> 的:
+</p>
+        <pre>
+          <code>$ cpanm Moose
+</code>
+        </pre>
+        <p>使用該 cpanm 安裝模組，則會將模組安裝到目前使用版本的 Perl 函式庫內，這些函式庫放置在 ~/perl5/perlbrew/perls 底下:
+</p>
+        <pre>
+          <code>% ls -l ~/perl5/perlbrew/perls 
+drwxr-xr-x  5 c9s  staff  170  9 25 13:12 perl-5.14.1
+drwxr-xr-x  6 c9s  staff  204 10  7 11:27 perl-5.14.2-llvm
+drwxr-xr-x  5 c9s  staff  170  9 25 02:33 perl-5.15.3
+</code>
+        </pre>
+        <p>若使用 tree 命令觀察路徑結構，則如下:
+</p>
+        <pre>
+          <code>$ tree ~/perl5/perlbrew/perls/perl-5.14.1/lib | head 
+/Users/c9s/perl5/perlbrew/perls/perl-5.14.1/lib
+├── 5.14.1
+│   ├── AnyDBM_File.pm
+│   ├── App
+│   │   ├── Cpan.pm
+│   │   ├── Prove
+│   │   │   ├── State
+│   │   │   │   ├── Result
+│   │   │   │   │   └── Test.pm
+│   │   │   │   └── Result.pm
+</code>
+        </pre>
+        <p>你也可以使用 perl -V 查看目前所使用的 @INC (函式庫搜尋路徑)
+</p>
+        <pre>
+          <code>$ perl -V
+Summary of my perl5 (revision 5 version 14 subversion 2) configuration:
+... 略 ...
+Built under darwin
+Compiled at Oct  4 2011 13:56:16
+%ENV:
+    PERLBREW_HOME="/Users/c9s/.perlbrew"
+    PERLBREW_PATH="/Users/c9s/perl5/perlbrew/bin:/Users/c9s/perl5/perlbrew/perls/perl-5.14.2-llvm/bin"
+    PERLBREW_PERL="perl-5.14.2-llvm"
+    PERLBREW_ROOT="/Users/c9s/perl5/perlbrew"
+    PERLBREW_VERSION="0.29"
+    PERLDOC="-otext"
+    PERL_MM_USE_DEFAULT="1"
+@INC:
+    /Users/c9s/perl5/perlbrew/perls/perl-5.14.2-llvm/lib/site_perl/5.14.2/darwin-2level
+    /Users/c9s/perl5/perlbrew/perls/perl-5.14.2-llvm/lib/site_perl/5.14.2
+    /Users/c9s/perl5/perlbrew/perls/perl-5.14.2-llvm/lib/5.14.2/darwin-2level
+    /Users/c9s/perl5/perlbrew/perls/perl-5.14.2-llvm/lib/5.14.2
+</code>
+        </pre>
+        <p>Perl 相關的環境變數也會列舉出來。
+</p>
+        <h3>local::lib
+</h3>
+        <p>local::lib 模組是可讓你將所有模組安裝至某特定路徑下的工具，也因此，利用 local::lib ，你可以在不需要 Root permission (sudo) 的情況下，
+安裝模組至某一目錄，然後讓你的 Perl 去使用他。
+</p>
+        <p>local::lib 的範例如下:
+</p>
+        <pre>
+          <code>  # Install LWP and its missing dependencies to the '~/perl5' directory
+  perl -MCPAN -Mlocal::lib -e 'CPAN::install(LWP)'
+</code>
+        </pre>
+        <p>以上可安裝 LWP 模組至 ~/perl5 目錄下。
+</p>
+        <p>你也可將 local::lib 環境變數列印出來:
+</p>
+        <pre>
+          <code>  $ perl -Mlocal::lib
+  export PERL_MB_OPT='--install_base /home/username/perl5'
+  export PERL_MM_OPT='INSTALL_BASE=/home/username/perl5'
+  export PERL5LIB='/home/username/perl5/lib/perl5/i386-linux:/home/username/perl5/lib/perl5'
+  export PATH="/home/username/perl5/bin:$PATH"
+</code>
+        </pre>
+        <p>在使用 Perlbrew 的情況下，如果你在不同版本的 Perl 中，使用同一個 local::lib 路徑，很可能會遇到編譯的二進位檔案不相容的問題。
+</p>
+        <p>也因此，Perlbrew 提供了新的功能 -- <code>lib</code> ，在不同版本的 Perl 中，你可以建立出獨立的 local::lib 空間，而不受到影響:
+</p>
+        <pre>
+          <code>$ perlbrew lib create nobita
+</code>
+        </pre>
+        <p>以上指令可在目前版本的 Perl 中，建立一個名為 nobita 的 local::lib 函式庫空間。
+</p>
+        <p>若要指令版本建立 local::lib 函式庫空間，也可執行以下指令:
+</p>
+        <pre>
+          <code>$ perlbrew lib create perl-5.12.3@shizuka
+</code>
+        </pre>
+        <p>若要列出所有的 local::lib 空間:
+</p>
+        <pre>
+          <code>$ perlbrew lib list
+</code>
+        </pre>
+        <p>若要切換使用的 local::lib 空間:
+</p>
+        <pre>
+          <code>$ perlbrew lib use nobita
+</code>
+        </pre>
+        <p>如此，你可以利用 cpanm 將模組安裝至不同的 local::lib 函式庫空間內，在不同專案中，很可能會使用到
+不同版本、不同相依性的模組，你便可以利用這樣的功能，來測試專案、模組之間的相容性。
+</p>
+        <h3>Perl Delta
+</h3>
+        <p>關於 Perl 版本的變動，可以使用 perldoc 查閱相關資訊
+</p>
+        <pre>
+          <code>$ perldoc perl
+</code>
+        </pre>
+        <p>可查閱 perl 文件的索引，如以下這些文件項目，便包含了該版本修改、新增的地方:
+</p>
+        <pre>
+          <code>perldelta           Perl changes since previous version
+perl5141delta       Perl changes in version 5.14.1
+perl5140delta       Perl changes in version 5.14.0
+perl51311delta      Perl changes in version 5.13.11
+perl51310delta      Perl changes in version 5.13.10
+perl5139delta       Perl changes in version 5.13.9
+</code>
+        </pre>
+        <p>欲查閱項目，可下以下指令:
+</p>
+        <pre>
+          <code>perldoc perl5140delta
+</code>
+        </pre>
+        <p>或者可在 Meta CPAN (<a href="https://metacpan.org/module/perl)">https://metacpan.org/module/perl)</a> 
+或 CPAN Search (<a href="http://search.cpan.org/dist/perl/pod/perl5141delta.pod)">http://search.cpan.org/dist/perl/pod/perl5141delta.pod)</a> 上找到。
+</p>
+        <h2>結論
+</h2>
+        <p>由於近年來 Perl 版本快速的釋出，Perlbrew 可讓使用者及早使用新版本的 Perl，
+這些都帶動了 Perl 程式語言以及社群蓬勃發展。
+</p>
+        <p>開發者可以使用不同版本的 Perl 來確保模組的運行
+，也可使用較舊版的 Perl 來為模組除錯，確保 Perl5 中重要的向後相容，
+也可為了效能的改善，而安裝較新的 Perl。
+</p>
+        <p>也因此，Perlbrew 可稱為現代 Perl 工具鏈中的一大利器。
+</p>
+        <h3>相關模組
+</h3>
+        <ul>
+          <li>local::lib
+</li>
+          <li>App::cpanminus
+</li>
+          <li>cpansearch
+</li>
+          <li>cpan-outdated
+</li>
+        </ul>
+        <h2>關於 Perlbrew 作者
+</h2>
+        <p>劉康民 (gugod)
+</p>
+        <p>Twitter: twitter.com/gugod 
+</p>
+        <p>Blog: gugod.org
+</p>
+        <p>劉康民 ( gugod ) 為和多股份有限公司創辨人之一, 目前任職程式設計師。
+</p>
+        <p>主要專長：Perl、Javascript、Ruby 程式語言。
+</p>
+        <h2>作者
+</h2>
+        <p>林佑安 (c9s) <a href="mailto:cornelius.howl@gmail.com">mailto:cornelius.howl@gmail.com</a>
+</p>
+        <p>目前任職程式設計師。 主要專長：Perl、Vim、Javascript、PHP 等程式語言。
+</p>
+        <p>為 CPAN 模組開發者，於 CPAN 上開發 20 多個 CPAN 模組專案，如 Vimana, cpansearch 等。
+以及 Vim Plugin 相關開發，如 perlomni.vim Perl 自動補完插件。
+</p>
+        <p>Twitter: <a href="http://twitter.com/c9s">http://twitter.com/c9s</a>
+</p>
+        <p>Blog: <a href="http://c9s.blogspot.com">http://c9s.blogspot.com</a>
+</p>
+        <h2>參考
+</h2>
+        <p>perldoc local::lib
+</p>
+        <p>perldoc App::perlbrew
+</p>
+        <p>Perl source: porting/release_manager_guide.pod
+</p>
+        <p><a href="http://www.slideshare.net/obrajesse/perl-5120">perl5.12.0</a>
+</p>
+        <p><a href="http://www.slideshare.net/obrajesse/perl-516-and-beyond">perl5.16 and beyond</a>
+</p>
+        <p><a href="http://www.slideshare.net/alex.muntada/modern-perl-toolchain">Modern Perl Toolchain</a>
+</p>
+        <p><a href="http://www.perlbrew.pl/">Perlbrew.pl</a>
+</p>
+        <p><a href="http://www.slideshare.net/gugod/perlbrew-yapcasia2010talk">Perlbrew YAPC Asia 2010</a>
+</p>
+        <p><a href="http://gugod.org/2011/09/perlbrew-development-and-git-flow/">Perlbrew development and the git flow</a>
+</p>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>https://perlbrew.pl/Reinstall-All-Modules-On-New-Perl.html?520c4bb30f1f9056794e9ce14762932f14b5604b</id>
+    <link rel="alternate" href="https://perlbrew.pl/Reinstall-All-Modules-On-New-Perl.html" type="text/html"/>
+    <title>How To Reinstall All Modules On New Perl</title>
+    <published>2023-08-11T23:38:35+09:00</published>
+    <author>
+      <name>gugod</name>
+    </author>
+    <content type="xhtml" xml:base="https://perlbrew.pl">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>Sometimes when you install a new perl version, you want to put all the modules you were using on a previous version onto your new perl install.
+</p>
+        <p>You can easily get the list of modules in the current perl installation with <code>list-modules</code> command:
+</p>
+        <pre>
+          <code>perlbrew use perl-5.8.8@foo-project
+perlbrew list-modules
+</code>
+        </pre>
+        <p>That simply prints out module names that you can use latter.
+</p>
+        <p>Since <code>perlbrew 0.81</code>, it is possible to use the <code>clone-modules</code> command to reinstall all the modules from a Perl instance to another.
+</p>
+        <p>For instance:
+</p>
+        <pre>
+          <code>perlbrew clone-modules 5.26.1 5.27.7
+</code>
+        </pre>
+        <p>will <em>clone</em> all modules from instance <code>5.26.1</code> to instance <code>5.27.7</code>.
+</p>
+        <p>For <code>perlbrew</code> version prior to <em>0.81</em> or in case the <code>clone-modules</code>
+does not what you need, the following one liner can pipe all modules from one
+instance of Perl to another one asking <code>cpanm</code> to install each one on the latter:
+</p>
+        <pre>
+          <code>perlbrew list-modules | perlbrew exec --with perl-5.16.2@foo-project cpanm
+</code>
+        </pre>
+        <p>The <code>exec</code> command is particularly helpful to run any program as if it is in the
+environment of the specified perl installations. 
+</p>
+        <p>Get more details running the <code>help</code> command:
+</p>
+        <pre>
+          <code>perlbrew help list-modules
+perlbrew help exec
+perlbrew help clone-modules
+</code>
+        </pre>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>https://perlbrew.pl/Release-0.20.html?ef88100ad620dbad047cb2a0bf0e30bc6441e2fd</id>
+    <link rel="alternate" href="https://perlbrew.pl/Release-0.20.html" type="text/html"/>
+    <title>Perlbrew Release 0.20</title>
+    <published>2023-08-11T23:38:35+09:00</published>
+    <author>
+      <name>gugod</name>
+    </author>
+    <content type="xhtml" xml:base="https://perlbrew.pl">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>perlbrew 0.20 features three major changes:
+</p>
+        <ul>
+          <li>Improved <code>perlbrew install</code> command
+</li>
+          <li>True multi-user friendliness
+</li>
+          <li>switch / use for CSH users
+</li>
+        </ul>
+        <h2>Installation / Upgrade
+</h2>
+        <p>In short, paste this line to your terminal:
+</p>
+        <pre>
+          <code>curl -L https://github.com/gugod/App-perlbrew/raw/master/perlbrew-install | bash
+</code>
+        </pre>
+        <p>If you've installed perlbrew from CPAN and you're upgrading, you can still upgrade with CPAN. However, after upgrading <code>App::perlbrew</code>, you need to run:
+</p>
+        <pre>
+          <code>perlbrew init
+</code>
+        </pre>
+        <h2>Improvements of the "install" command
+</h2>
+        <p>The install command now takes 3 different kinds of arguments, a perl distribution name, a path to git checkout directory, or a URL to a perlbrew distribution tarball:
+</p>
+        <ul>
+          <li><code>perlbrew install perl-5.12.3</code>
+</li>
+          <li><code>perlbrew install ~/src/perl</code>
+</li>
+          <li>`perlbrew install <a href="http://search.cpan.org/CPAN/authors/id/J/JE/JESSE/perl-5.14.0-RC2.tar.bz2`">http://search.cpan.org/CPAN/authors/id/J/JE/JESSE/perl-5.14.0-RC2.tar.bz2`</a>
+</li>
+        </ul>
+        <p>If you choose to build from a git checkout directory, you may do a <code>git checkout v5.12.3</code> or <code>git checkout &lt;SHA1&gt;</code> to jump to any reversion you want to build, and run <code>perlbrew install ~/src/perl</code> from there. perlbrew will use the output of <code>git describe</code> as the installation name. That's something like <code>perl-v5.14.0-RC1-8-g2cf7ccf</code>.
+</p>
+        <h2>Multi-user friendliness
+</h2>
+        <p>In some use cases, many people may want to share one <code>PERLBREW_ROOT</code> on the same machine instead having redundant copies all over the hard drives.
+</p>
+        <p>perlbrew had been using a symlink named <code>current</code> to record currently activated perl. That is a global setting, and is now deprecated.
+</p>
+        <p>The <code>switch</code> command now stop updating the <code>current</code> symlink. Instead, it stores that piece information under <code>~/.perlbrew</code> directory.
+</p>
+        <p>Notice that symbolic links are still used when installing development releases of perl. The perl executables are named with version numbers, like <code>perl5.13.9</code>, <code>cpan5.13.9</code>. In those cases, Un-versioned executable symlinks are created to point to their versioned counterparts (<code>perl -&gt; perl5.13.9</code>, <code>cpan -&gt; cpan5.13.9</code>.)
+</p>
+        <h2>switch and use command for CSH users
+</h2>
+        <p>For a while, CSH / TCSH users cannot use 'use' command to temporarily switch to a given perl installation,
+they now can. However, the user experiences is different. <code>perlbrew use</code> essentially launch a sub-shell that need to be <code>exit</code>ed. Like the illustration here:
+</p>
+        <pre>
+          <code>&gt; perl -v # 5.12.3
+&gt;   perlbrew use perl-5.13.9
+&gt;   perl -v # 5.13.9
+&gt;   exit
+&gt; perl -v 5.12.3
+</code>
+        </pre>
+        <p>The behavior of <code>switch</code> command also changes for CSH users. In order to make perlbrew multi-user friendly, the <code>current</code> symlink is removed, which essentially limits the approach of implementation of <code>switch</code> command. The <code>switch</code> command now prompts user to quit current shell and start a new one, or run <code>exec tcsh</code> in order to make if effective.
+</p>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>https://perlbrew.pl/Release-0.21.html?ae7225e0e2ab49d34ec2cf49b41d96e431cdd33e</id>
+    <link rel="alternate" href="https://perlbrew.pl/Release-0.21.html" type="text/html"/>
+    <title>Perlbrew Release 0.21</title>
+    <published>2023-08-11T23:38:35+09:00</published>
+    <author>
+      <name>gugod</name>
+    </author>
+    <content type="xhtml" xml:base="https://perlbrew.pl">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>perlbrew 0.21 features these major changes:
+</p>
+        <ul>
+          <li>Improved <code>perlbrew list</code> command.
+</li>
+          <li>Improved <code>install</code> command. Now takes an archive file path <code>perlbrew install /path/to/perl-5.14.0.tar.gz</code>
+</li>
+          <li>Fixed a bug that <code>perlbrew install URL</code> might install to a wrong destination directory.
+</li>
+          <li>Fixed the <code>--as</code> option that was broken since 0.20 (RT 68241)
+</li>
+          <li>website update mechanism
+</li>
+        </ul>
+        <h2>perlbrew list command improvements
+</h2>
+        <p>The output of <code>perlbrew list</code> is slightly improved. A version number is displayed for those installations which cannot be told the version numbers from their names. For example:
+</p>
+        <pre>
+          <code>&gt; perlbrew list
+* perl-5.12.3
+  perl-5.13.10
+  perl-5.14.0-RC2
+  perl-blead (5.14.0)
+  perl-v5.14.0-RC1-8-g2cf7ccf
+  /usr/bin/perl (5.10.0)
+</code>
+        </pre>
+        <p>The version number is acquired from <code>perl -e 'print $]'</code>, therefore it does not contain any RC number or git commit sha1.
+</p>
+        <h2>Website Update mechanism
+</h2>
+        <p>For those who are interested in publishing contents to <a href="http://perlbrew.pl">http://perlbrew.pl</a>, the website is basically semi-automatic synchronized with <a href="https://github.com/gugod/App-perlbrew/wiki">perlbrew github wiki</a>. One should be able to just edit the wiki content and wait momentarily for the update. Several points to be noticed:
+</p>
+        <ul>
+          <li>Make sure you use "markdown" syntax. Other formats are not supported.
+</li>
+          <li>If you use git access, the file name extension has to be <code>.md</code>.
+</li>
+          <li>Page can be linked by their names, just put them in double square brackets, for example: <code>[[Home]]</code>, or <code>[[Release-0.21]]</code>.
+</li>
+          <li>Github flavored markdown has no effect -- the render-er is <a href="http://beta.metacpan.org/module/Text::Markdown">Text::Markdown</a>.
+</li>
+        </ul>
+        <p>To preview it on your own, do the following:
+</p>
+        <pre>
+          <code>echo Text::Markdown Text::Xslate IO::All | cpanm
+git clone git://github.com/gugod/www.perlbrew.pl.git
+cd www.perlbrew.pl
+make
+open public/YOUR-PAGE-NAME.html
+</code>
+        </pre>
+        <p>The command <code>make</code> should pull the latest wiki content and start generating HTML files from there. HTML files are generated under <code>public/</code> with matching file names, except the <code>.md</code> extension is replaced with <code>.html</code>. For example, these two are matching pages:
+</p>
+        <ul>
+          <li><a href="https://github.com/gugod/App-perlbrew/wiki/Reinstall-All-Modules-On-New-Perl">https://github.com/gugod/App-perlbrew/wiki/Reinstall-All-Modules-On-New-Perl</a>
+</li>
+          <li><a href="http://www.perlbrew.pl/Reinstall-All-Modules-On-New-Perl.html">http://www.perlbrew.pl/Reinstall-All-Modules-On-New-Perl.html</a>
+</li>
+        </ul>
+        <p>Notice the homepage is named <code>index.md</code> but not <code>Home.md</code>, which is the landing page for Github wiki.
+</p>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>https://perlbrew.pl/Release-0.22.html?95bff8e0ca5a9abad4bbf7cee858006893a7d267</id>
+    <link rel="alternate" href="https://perlbrew.pl/Release-0.22.html" type="text/html"/>
+    <title>Perlbrew Release 0.22</title>
+    <published>2023-08-11T23:38:35+09:00</published>
+    <author>
+      <name>gugod</name>
+    </author>
+    <content type="xhtml" xml:base="https://perlbrew.pl">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>The 0.22 release features these major changes:
+</p>
+        <ul>
+          <li>Fix ccache support on Linux
+<ul><li>To compile perl with ccache, <code>perlbrew install -Dcc=ccache\ gcc' -Dld=gcc perl-5.14.0</code>
+</li></ul></li>
+          <li>Better installation management
+<ul><li>Fix: <code>install</code> command no longer clobber existing installations.
+</li><li>New command: uninstall
+</li><li>New command: alias
+</li></ul></li>
+          <li>New command: self-upgrade
+</li>
+        </ul>
+        <h2>Better Installation Management
+</h2>
+        <p>The <code>install</code> command used to clobber existing perl installations without noticing users, now it does not. perlbrew simply stops the installation process when it detects any naming collision. If it is intended to reinstall with the exact same name, you need to explicitly uninstall the old one first.
+</p>
+        <p>Yes, finally the <code>uninstall</code> command is here, to remove the specified perl installation.
+</p>
+        <pre>
+          <code>perlbrew uninstall perl-5.10.1
+</code>
+        </pre>
+        <p>Also a mechanism to make aliases is introduced. Which provides a better non-interactive usage.
+</p>
+        <p>Let's say you have both perl-5.12.3 and perl-5.14.0 installed, and want to migrate all your programs to use perl-5.14.0 eventually. Previously, you need to put the exact path to perl-5.12.3 in the shebang, like:
+</p>
+        <pre>
+          <code>#!/Users/gugod/perl5/perlbrew/perls/perl-5.12.3/bin/perl
+</code>
+        </pre>
+        <p>To migrate your programs to perl-5.14.0, you need to replace that line to
+</p>
+        <pre>
+          <code>#!/Users/gugod/perl5/perlbrew/perls/perl-5.14.0/bin/perl
+</code>
+        </pre>
+        <p>Which might not be a big issue, until you have to do that for tens, or hundreds of programs.
+</p>
+        <p>The solution to this scenario, is to use alias. First create an alias for perl-5.12.3, here the name of choice is "stable":
+</p>
+        <pre>
+          <code>perlbrew alias create perl-5.12.3 stable
+</code>
+        </pre>
+        <p>And the shebang for the "stable" perl is just:
+</p>
+        <pre>
+          <code>#!/Users/gugod/perl5/perlbrew/perls/stable/bin/perl
+</code>
+        </pre>
+        <p>Under the hood it is just a symlink that does the trick. Once you need to fullly migrate to perl-5.14.0, just upgrade the symlink with:
+</p>
+        <pre>
+          <code>perlbrew alias delete stable
+perlbrew alias create perl-5.14.0 stable
+</code>
+        </pre>
+        <p>Or alternatively, do a force create to override the existing alias
+</p>
+        <pre>
+          <code>perlbrew alias -f create perl-5.14.0 stable
+</code>
+        </pre>
+        <p>No need to change shebang of programs anymore.
+</p>
+        <p>perlbrew used to have a special symlink named <code>current</code> to keep what's the default perl for users. This <code>current</code> symlink is no longer special. You may still create an alias named "current" if you need to.
+</p>
+        <h2>New command: self-upgrade
+</h2>
+        <p>A <code>self-upgrade</code> command is also introduced for easier upgrading. It essentially just run this line:
+</p>
+        <pre>
+          <code>curl -L http://xrl.us/perlbrewinstall | bash
+</code>
+        </pre>
+        <p>However, if the perlbrew executable is installed with CPAN, this command does not do anything at all, but just showing a message telling that it cannot be auto-upgraded. If your perlbrew is installed with CPAN, you need to upgrade it with CPAN.
+</p>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>https://perlbrew.pl/Release-0.23.html?dfb7123af11927a02e9880275cfd8ec4f844d10f</id>
+    <link rel="alternate" href="https://perlbrew.pl/Release-0.23.html" type="text/html"/>
+    <title>Perlbrew Release 0.23</title>
+    <published>2023-08-11T23:38:35+09:00</published>
+    <author>
+      <name>gugod</name>
+    </author>
+    <content type="xhtml" xml:base="https://perlbrew.pl">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>The 0.23 release features these minor rchanges:
+</p>
+        <ul>
+          <li>Fix dependency and tests in 0.22 release tarball.
+</li>
+          <li>pdksh support for OpenBSD
+</li>
+          <li>fix auto-detection of curl
+</li>
+          <li>Introduce a <code>PERLBREW_HOME</code> env var, default to <code>~/.perlbrew</code>. User may set it to store personal setting to somewher else.
+</li>
+        </ul>
+        <p>It is a relatively smaller release merely to fix cpan tests.
+</p>
+      </div>
+    </content>
+  </entry>
+  <updated>2024-11-27T20:24:06+09:00</updated>
+</feed>

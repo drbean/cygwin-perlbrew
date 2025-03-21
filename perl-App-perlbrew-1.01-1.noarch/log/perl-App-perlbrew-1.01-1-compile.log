@@ -1,0 +1,41 @@
+cygport 0.36.9 
+
+PF = perl-App-perlbrew-1.01-1
+S = /home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/src/App-perlbrew-1.01
+B = /home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/build
+D = /home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/inst
+C = /home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/src/App-perlbrew-1.01/CYGWIN-PATCHES
+T = /home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/temp
+CBUILD = x86_64-pc-cygwin
+CHOST = x86_64-pc-cygwin
+CTARGET = x86_64-pc-cygwin
+CC = gcc
+CFLAGS = -ggdb -O2 -pipe -Wall -Werror=format-security -Wp,-D_FORTIFY_SOURCE=3 -fstack-protector-strong --param=ssp-buffer-size=4 -ffile-prefix-map=/home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/build=/usr/src/debug/perl-App-perlbrew-1.01-1 -ffile-prefix-map=/home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/src/App-perlbrew-1.01=/usr/src/debug/perl-App-perlbrew-1.01-1
+CPPFLAGS =
+CXX = g++
+CXXFLAGS = -ggdb -O2 -pipe -Wall -Werror=format-security -Wp,-D_FORTIFY_SOURCE=3 -fstack-protector-strong --param=ssp-buffer-size=4 -Werror=return-type -ffile-prefix-map=/home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/build=/usr/src/debug/perl-App-perlbrew-1.01-1 -ffile-prefix-map=/home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/src/App-perlbrew-1.01=/usr/src/debug/perl-App-perlbrew-1.01-1
+F77 = gfortran
+FFLAGS = -ggdb -O2 -pipe -Wall -Werror=format-security -Wp,-D_FORTIFY_SOURCE=3 -fstack-protector-strong --param=ssp-buffer-size=4 -ffile-prefix-map=/home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/build=/usr/src/debug/perl-App-perlbrew-1.01-1 -ffile-prefix-map=/home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/src/App-perlbrew-1.01=/usr/src/debug/perl-App-perlbrew-1.01-1
+FC = gfortran
+FCFLAGS = -ggdb -O2 -pipe -Wall -Werror=format-security -Wp,-D_FORTIFY_SOURCE=3 -fstack-protector-strong --param=ssp-buffer-size=4 -ffile-prefix-map=/home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/build=/usr/src/debug/perl-App-perlbrew-1.01-1 -ffile-prefix-map=/home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/src/App-perlbrew-1.01=/usr/src/debug/perl-App-perlbrew-1.01-1
+GOC = gccgo
+GOFLAGS = -ggdb -O2 -pipe -ffile-prefix-map=/home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/build=/usr/src/debug/perl-App-perlbrew-1.01-1 -ffile-prefix-map=/home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/src/App-perlbrew-1.01=/usr/src/debug/perl-App-perlbrew-1.01-1
+OBJC = gcc
+OBJCFLAGS = -ggdb -O2 -pipe -Wall -Werror=format-security -Wp,-D_FORTIFY_SOURCE=3 -fstack-protector-strong --param=ssp-buffer-size=4 -ffile-prefix-map=/home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/build=/usr/src/debug/perl-App-perlbrew-1.01-1 -ffile-prefix-map=/home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/src/App-perlbrew-1.01=/usr/src/debug/perl-App-perlbrew-1.01-1
+OBJCXX = g++
+OBJCXXFLAGS = -ggdb -O2 -pipe -Wall -Werror=format-security -Wp,-D_FORTIFY_SOURCE=3 -fstack-protector-strong --param=ssp-buffer-size=4 -Werror=return-type -ffile-prefix-map=/home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/build=/usr/src/debug/perl-App-perlbrew-1.01-1 -ffile-prefix-map=/home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/src/App-perlbrew-1.01=/usr/src/debug/perl-App-perlbrew-1.01-1
+LDFLAGS =
+LIBS =
+MAKEOPTS = -j 3
+
+
+Creating new 'Build' script for 'App-perlbrew' version '1.01'
+Skip blib/lib/App/Perlbrew/Path/Root.pm (unchanged)
+Skip blib/lib/App/Perlbrew/Path/Installations.pm (unchanged)
+Skip blib/lib/App/Perlbrew/HTTP.pm (unchanged)
+Skip blib/lib/App/Perlbrew/Sys.pm (unchanged)
+Skip blib/lib/App/Perlbrew/Path/Installation.pm (unchanged)
+Skip blib/lib/App/Perlbrew/Util.pm (unchanged)
+Skip blib/lib/App/perlbrew.pm (unchanged)
+Skip blib/lib/App/Perlbrew/Path.pm (unchanged)
+Skip blib/script/perlbrew (unchanged)

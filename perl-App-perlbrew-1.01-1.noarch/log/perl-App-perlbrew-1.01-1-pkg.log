@@ -1,0 +1,74 @@
+cygport 0.36.9 
+
+PF = perl-App-perlbrew-1.01-1
+S = /home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/src/App-perlbrew-1.01
+B = /home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/build
+D = /home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/inst
+C = /home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/src/App-perlbrew-1.01/CYGWIN-PATCHES
+T = /home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/temp
+CBUILD = x86_64-pc-cygwin
+CHOST = x86_64-pc-cygwin
+CTARGET = x86_64-pc-cygwin
+CC = gcc
+CFLAGS = -ggdb -O2 -pipe -Wall -Werror=format-security -Wp,-D_FORTIFY_SOURCE=3 -fstack-protector-strong --param=ssp-buffer-size=4 -ffile-prefix-map=/home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/build=/usr/src/debug/perl-App-perlbrew-1.01-1 -ffile-prefix-map=/home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/src/App-perlbrew-1.01=/usr/src/debug/perl-App-perlbrew-1.01-1
+CPPFLAGS =
+CXX = g++
+CXXFLAGS = -ggdb -O2 -pipe -Wall -Werror=format-security -Wp,-D_FORTIFY_SOURCE=3 -fstack-protector-strong --param=ssp-buffer-size=4 -Werror=return-type -ffile-prefix-map=/home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/build=/usr/src/debug/perl-App-perlbrew-1.01-1 -ffile-prefix-map=/home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/src/App-perlbrew-1.01=/usr/src/debug/perl-App-perlbrew-1.01-1
+F77 = gfortran
+FFLAGS = -ggdb -O2 -pipe -Wall -Werror=format-security -Wp,-D_FORTIFY_SOURCE=3 -fstack-protector-strong --param=ssp-buffer-size=4 -ffile-prefix-map=/home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/build=/usr/src/debug/perl-App-perlbrew-1.01-1 -ffile-prefix-map=/home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/src/App-perlbrew-1.01=/usr/src/debug/perl-App-perlbrew-1.01-1
+FC = gfortran
+FCFLAGS = -ggdb -O2 -pipe -Wall -Werror=format-security -Wp,-D_FORTIFY_SOURCE=3 -fstack-protector-strong --param=ssp-buffer-size=4 -ffile-prefix-map=/home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/build=/usr/src/debug/perl-App-perlbrew-1.01-1 -ffile-prefix-map=/home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/src/App-perlbrew-1.01=/usr/src/debug/perl-App-perlbrew-1.01-1
+GOC = gccgo
+GOFLAGS = -ggdb -O2 -pipe -ffile-prefix-map=/home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/build=/usr/src/debug/perl-App-perlbrew-1.01-1 -ffile-prefix-map=/home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/src/App-perlbrew-1.01=/usr/src/debug/perl-App-perlbrew-1.01-1
+OBJC = gcc
+OBJCFLAGS = -ggdb -O2 -pipe -Wall -Werror=format-security -Wp,-D_FORTIFY_SOURCE=3 -fstack-protector-strong --param=ssp-buffer-size=4 -ffile-prefix-map=/home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/build=/usr/src/debug/perl-App-perlbrew-1.01-1 -ffile-prefix-map=/home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/src/App-perlbrew-1.01=/usr/src/debug/perl-App-perlbrew-1.01-1
+OBJCXX = g++
+OBJCXXFLAGS = -ggdb -O2 -pipe -Wall -Werror=format-security -Wp,-D_FORTIFY_SOURCE=3 -fstack-protector-strong --param=ssp-buffer-size=4 -Werror=return-type -ffile-prefix-map=/home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/build=/usr/src/debug/perl-App-perlbrew-1.01-1 -ffile-prefix-map=/home/drbean/dot/cygwin/perlbrew/perl-App-perlbrew-1.01-1.noarch/src/App-perlbrew-1.01=/usr/src/debug/perl-App-perlbrew-1.01-1
+LDFLAGS =
+LIBS =
+MAKEOPTS = -j 3
+
+
+>>> Creating binary package(s)
+>>> perl-App-perlbrew-1.01-1.tar.xz
+usr/
+usr/bin/
+usr/bin/perlbrew
+usr/lib/
+usr/lib/perl5/
+usr/lib/perl5/App/
+usr/lib/perl5/App/Perlbrew/
+usr/lib/perl5/App/Perlbrew/HTTP.pm
+usr/lib/perl5/App/Perlbrew/Path/
+usr/lib/perl5/App/Perlbrew/Path/Installation.pm
+usr/lib/perl5/App/Perlbrew/Path/Installations.pm
+usr/lib/perl5/App/Perlbrew/Path/Root.pm
+usr/lib/perl5/App/Perlbrew/Path.pm
+usr/lib/perl5/App/Perlbrew/Sys.pm
+usr/lib/perl5/App/Perlbrew/Util.pm
+usr/lib/perl5/App/perlbrew.pm
+usr/share/
+usr/share/doc/
+usr/share/doc/perl-App-perlbrew/
+usr/share/doc/perl-App-perlbrew/CHANGES
+usr/share/doc/perl-App-perlbrew/LICENSE
+usr/share/doc/perl-App-perlbrew/README
+usr/share/man/
+usr/share/man/man1/
+usr/share/man/man1/perlbrew.1.gz
+usr/share/man/man3/
+usr/share/man/man3/App.perlbrew.3pm.gz
+
+[1;32m*** Info:[0;0m No debug files, skipping debuginfo subpackage
+
+>>> Checking packages for unexpected, missing or duplicate files
+
+>>> Creating source patches
+diff: src/App-perlbrew-1.01/CYGWIN-PATCHES: Is a directory
+ 0 files changed
+>>> Creating source package
+perl-App-perlbrew-1.01-1.src/
+perl-App-perlbrew-1.01-1.src/App-perlbrew-1.01.tar.gz
+perl-App-perlbrew-1.01-1.src/perlbrew.cygport
+
+>>> perl-App-perlbrew requires: perl perl_base 
