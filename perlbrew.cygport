@@ -19,4 +19,11 @@ DIFF_EXCLUDES="MYMETA.*"
 export PERL_NO_VENDOR_DEPS=1
 export PERL_MB_OPT="--install_base /home/Administrator/perl5/perlbrew"
 
+export CYGPORT_USE_UNSTABLE_API=1
+src_unpack_hook ()
+{
+        inform "Copying postinstall.sh into CYGWIN-PATCHES"
+        cp -av ${top}/postinstall.sh "${S/\/src\///origsrc/CYGWIN-PATCHES}"
+}
+
 inherit perl
