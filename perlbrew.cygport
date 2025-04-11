@@ -1,5 +1,4 @@
 # B
-# -*- mode: sh; sh-shell: bash -*-
 BUILD_REQUIRES+=" libcrypt-devel" # perl.h
 NAME="perl-App-perlbrew"
 VERSION="1.01"
