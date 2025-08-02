@@ -1,11 +1,11 @@
 # B
 BUILD_REQUIRES+=" libcrypt-devel" # perl.h
 NAME="perl-App-perlbrew"
-VERSION="1.01"
+VERSION="1.02"
 RELEASE="1"
 DESTDIR="${HOME}/perl5/perlbrew"
 CPAN_AUTHOR="GUGOD"
-HOMEPAGE="https://metacpan.org/pod/App::perlbrew-1.01"
+HOMEPAGE="https://metacpan.org/pod/App::perlbrew-1.02"
 LICENSE="The MIT (X11) License"
 DESCRIPTION="Perl distribution App-perlbrew, providing Perl app:
 perlbrew.
@@ -22,7 +22,9 @@ export CYGPORT_USE_UNSTABLE_API=1
 src_unpack_hook ()
 {
         inform "Copying postinstall.sh in ${top} into ${S/\/src\///origsrc/}/CYGWIN-PATCHES"
-	mkdir "${S/\/src\///origsrc/}/CYGWIN-PATCHES"
+	if [[ ! -d "${S/\/src\///origsrc/}/CYGWIN-PATCHES" ]] ; then
+		mkdir "${S/\/src\///origsrc/}/CYGWIN-PATCHES"
+	fi
         cp -av ${top}/postinstall.sh "${S/\/src\///origsrc/}/CYGWIN-PATCHES"
 
 }
